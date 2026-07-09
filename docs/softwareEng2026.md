@@ -1,3 +1,9 @@
+---
+layout: page
+title: "software Eng. lecture note
+permalink: /docs/softwareEng2026
+---
+
 # 第一回
 
 #### ソフトウェア工学の難しいところ
